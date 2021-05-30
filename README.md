@@ -1,4 +1,5 @@
-# Hi, I'm @anacarmela 👩💻
+# Hi, I'm @anacarmela 
+👩🏻‍💻
 
 - 👋 I'm a data engineer by profession 👩🏻‍💻 and a part-time law student ⚖️
 - 👀 I’m interested in Cloud Computing, Natural Language Processing, Cryptography, and Reconnaissance
