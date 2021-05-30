@@ -1,3 +1,5 @@
+![image]({https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white})
+
 - 👋 Hi, I’m @anacarmela, a data engineer by profession 👩🏻‍💻 and a part-time law student ⚖️.
 - 👀 I’m interested in Cloud Computing, Natural Language Processing, Cryptography, and Reconnaissance
 - 🌱 I’m currently learning JavaScript and Rust
