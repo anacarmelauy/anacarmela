@@ -2,7 +2,7 @@
 
 - 👋 I'm a data engineer by profession 👩🏻‍💻 and a part-time law student ⚖️
 - 👀 I’m interested in Cloud Computing, Natural Language Processing, and Feature Engineering
-- 🌱 I’m currently learning Rust, Javascript and PHP
+- 🌱 I’m currently learning JavaScript and PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarmela&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anacarmela/github-readme-stats)
 
